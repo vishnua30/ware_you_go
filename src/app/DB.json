@@ -1,0 +1,672 @@
+{
+  "product": [
+    {
+      "code": 88,
+      "name": "Tata",
+      "length": "88",
+      "width": "99",
+      "height": "77",
+      "weight": "800",
+      "id": 1
+    }
+  ],
+  "location": [
+    {
+      "location_id": 1,
+      "loc_description": "Adding Location",
+      "Length": 88,
+      "width": 77,
+      "height": 88,
+      "id": 1
+    }
+  ],
+  "inboundForm": [
+    {
+      "Product_name": "Tata",
+      "Product_code": 99,
+      "Batch_no": 1,
+      "length": 90,
+      "breadth": 99,
+      "height": 100,
+      "product_weight": 99,
+      "product_quantiy": 77,
+      "supplier_name": "Nissan",
+      "supplier_location": "Bengaluru",
+      "prod_order_no": 9,
+      "date_of_po_insurance": "2023-03-29",
+      "date_of_delivery": "2023-03-30",
+      "id": 1
+    },
+    {
+      "Product_name": "",
+      "Product_code": "",
+      "Batch_no": "",
+      "length": "",
+      "breadth": "",
+      "height": "",
+      "product_weight": "",
+      "product_quantiy": "",
+      "supplier_name": "",
+      "supplier_location": "",
+      "prod_order_no": "",
+      "date_of_po_insurance": "",
+      "date_of_delivery": "",
+      "id": 2
+    },
+    {
+      "Product_name": "",
+      "Product_code": "",
+      "Batch_no": "",
+      "length": "",
+      "breadth": "",
+      "height": "",
+      "product_weight": "",
+      "product_quantiy": "",
+      "supplier_name": "",
+      "supplier_location": "",
+      "prod_order_no": "",
+      "date_of_po_insurance": "",
+      "date_of_delivery": "",
+      "id": 3
+    },
+    {
+      "Product_name": "",
+      "Product_code": "",
+      "Batch_no": "",
+      "length": "",
+      "breadth": "",
+      "height": "",
+      "product_weight": "",
+      "product_quantiy": "",
+      "supplier_name": "",
+      "supplier_location": "",
+      "prod_order_no": "",
+      "date_of_po_insurance": "",
+      "date_of_delivery": "",
+      "id": 4
+    },
+    {
+      "Product_name": "",
+      "Product_code": "",
+      "Batch_no": "",
+      "length": "",
+      "breadth": "",
+      "height": "",
+      "product_weight": "",
+      "product_quantiy": "",
+      "supplier_name": "",
+      "supplier_location": "",
+      "prod_order_no": "",
+      "date_of_po_insurance": "",
+      "date_of_delivery": "",
+      "id": 5
+    },
+    {
+      "Product_name": "",
+      "Product_code": "",
+      "Batch_no": "",
+      "length": "",
+      "breadth": "",
+      "height": "",
+      "product_weight": "",
+      "product_quantiy": "",
+      "supplier_name": "",
+      "supplier_location": "",
+      "prod_order_no": "",
+      "date_of_po_insurance": "",
+      "date_of_delivery": "",
+      "id": 6
+    },
+    {
+      "Product_name": "",
+      "Product_code": "",
+      "Batch_no": "",
+      "length": "",
+      "breadth": "",
+      "height": "",
+      "product_weight": "",
+      "product_quantiy": "",
+      "supplier_name": "",
+      "supplier_location": "",
+      "prod_order_no": "",
+      "date_of_po_insurance": "",
+      "date_of_delivery": "",
+      "id": 7
+    },
+    {
+      "Product_name": "",
+      "Product_code": "",
+      "Batch_no": "",
+      "length": "",
+      "breadth": "",
+      "height": "",
+      "product_weight": "",
+      "product_quantiy": "",
+      "supplier_name": "",
+      "supplier_location": "",
+      "prod_order_no": "",
+      "date_of_po_insurance": "",
+      "date_of_delivery": "",
+      "id": 8
+    },
+    {
+      "Product_name": "",
+      "Product_code": "",
+      "Batch_no": "",
+      "length": "",
+      "breadth": "",
+      "height": "",
+      "product_weight": "",
+      "product_quantiy": "",
+      "supplier_name": "",
+      "supplier_location": "",
+      "prod_order_no": "",
+      "date_of_po_insurance": "",
+      "date_of_delivery": "",
+      "id": 9
+    },
+    {
+      "Product_name": "tttaaa",
+      "Product_code": 55,
+      "Batch_no": 646,
+      "length": 554,
+      "breadth": 444,
+      "height": 44,
+      "product_weight": 44,
+      "product_quantiy": 44,
+      "supplier_name": "dgdgd",
+      "supplier_location": "ftffg",
+      "prod_order_no": 6464,
+      "date_of_po_insurance": "2023-03-29",
+      "date_of_delivery": "2023-03-30",
+      "id": 10
+    }
+  ],
+  "outboundForm": [
+    {
+      "product_name": "tata",
+      "product_code": 1,
+      "Delivery_loc": "bengaluru",
+      "id": 1
+    },
+    {
+      "product_name": "tata",
+      "product_code": 1,
+      "Delivery_loc": "bengaluru",
+      "id": 2
+    },
+    {
+      "product_name": "tata",
+      "product_code": 1,
+      "Delivery_loc": "bengaluru",
+      "id": 3
+    },
+    {
+      "product_name": "kkk",
+      "product_code": 99,
+      "Delivery_loc": "bn",
+      "id": 4
+    },
+    {
+      "product_name": "kkk",
+      "product_code": 99,
+      "Delivery_loc": "bn",
+      "id": 5
+    },
+    {
+      "product_name": "kkk",
+      "product_code": 99,
+      "Delivery_loc": "bn",
+      "id": 6
+    },
+    {
+      "product_name": "hdhd",
+      "product_code": 2,
+      "Delivery_loc": "ugdgd",
+      "id": 7
+    },
+    {
+      "product_name": "hdhd",
+      "product_code": 2,
+      "Delivery_loc": "ugdgd",
+      "id": 8
+    },
+    {
+      "product_name": "hdhd",
+      "product_code": 2,
+      "Delivery_loc": "ugdgd",
+      "id": 9
+    },
+    {
+      "product_name": "hdhd",
+      "product_code": 2,
+      "Delivery_loc": "ugdgd",
+      "id": 10
+    },
+    {
+      "product_name": "hdhd",
+      "product_code": 2,
+      "Delivery_loc": "ugdgd",
+      "id": 11
+    },
+    {
+      "product_name": "hdhd",
+      "product_code": 2,
+      "Delivery_loc": "ugdgd",
+      "id": 12
+    },
+    {
+      "product_name": "hdhd",
+      "product_code": 2,
+      "Delivery_loc": "ugdgd",
+      "id": 13
+    },
+    {
+      "product_name": "hhg",
+      "product_code": 99,
+      "Delivery_loc": "kol",
+      "id": 14
+    },
+    {
+      "product_name": "",
+      "product_code": "",
+      "Delivery_loc": "",
+      "id": 15
+    },
+    {
+      "product_name": "omf",
+      "product_code": 9,
+      "Delivery_loc": "inf",
+      "id": 16
+    },
+    {
+      "product_name": "omf",
+      "product_code": 9,
+      "Delivery_loc": "inf",
+      "id": 17
+    },
+    {
+      "product_name": "omf",
+      "product_code": 9,
+      "Delivery_loc": "inf",
+      "id": 18
+    },
+    {
+      "product_name": "jd",
+      "product_code": 88,
+      "Delivery_loc": "bfnf",
+      "id": 19
+    },
+    {
+      "product_name": "jd",
+      "product_code": 88,
+      "Delivery_loc": "bfnf",
+      "id": 20
+    }
+  ],
+  "reclocationForm": [
+    {
+      "RelocReason": "return",
+      "product_name": "hhh",
+      "pcode": "kbff",
+      "batchno": "ddd",
+      "length": "ff",
+      "breadth": "ee",
+      "height": "dd",
+      "weight": "irr",
+      "sname": "dkvff",
+      "slocation": "fbfr",
+      "ponumber": "kb",
+      "podate": "2023-03-30",
+      "ddate": "2023-03-30",
+      "comment": "vbb",
+      "id": 1
+    }
+  ],
+  "location_analyse": [
+    {
+      "sno": 7,
+      "Rack": 83,
+      "Shelf": 23,
+      "active": true,
+      "id": 1
+    },
+    {
+      "sno": 7,
+      "Rack": 83,
+      "Shelf": 23,
+      "active": true,
+      "id": 2
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 5
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 6
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 9
+    },
+    {
+      "sno": 1,
+      "Rack": 53,
+      "Shelf": 240,
+      "active": false,
+      "id": 10
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 11
+    },
+    {
+      "sno": 7,
+      "Rack": 83,
+      "Shelf": 23,
+      "active": true,
+      "id": 12
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 13
+    },
+    {
+      "sno": 4,
+      "Rack": 50,
+      "Shelf": 820,
+      "active": false,
+      "id": 14
+    },
+    {
+      "sno": 7,
+      "Rack": 83,
+      "Shelf": 23,
+      "active": true,
+      "id": 15
+    }
+  ],
+  "outloccomp": [
+    {
+      "sno": 5,
+      "Rack": 5,
+      "Shelf": 50,
+      "active": true,
+      "id": 1
+    },
+    {
+      "sno": 5,
+      "Rack": 5,
+      "Shelf": 50,
+      "active": true,
+      "id": 2
+    },
+    {
+      "sno": 5,
+      "Rack": 5,
+      "Shelf": 50,
+      "active": false,
+      "id": 3
+    },
+    {
+      "sno": 5,
+      "Rack": 5,
+      "Shelf": 50,
+      "active": true,
+      "id": 4
+    },
+    {
+      "sno": 3,
+      "Rack": 63,
+      "Shelf": 204,
+      "active": false,
+      "id": 5
+    },
+    {
+      "sno": 5,
+      "Rack": 5,
+      "Shelf": 50,
+      "active": false,
+      "id": 6
+    },
+    {
+      "sno": 5,
+      "Rack": 5,
+      "Shelf": 50,
+      "active": true,
+      "id": 7
+    },
+    {
+      "sno": 5,
+      "Rack": 5,
+      "Shelf": 50,
+      "active": true,
+      "id": 8
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 9
+    },
+    {
+      "sno": 4,
+      "Rack": 50,
+      "Shelf": 820,
+      "active": false,
+      "id": 10
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 11
+    },
+    {
+      "sno": 3,
+      "Rack": 63,
+      "Shelf": 204,
+      "active": false,
+      "id": 12
+    }
+  ],
+  "manualEntryLoc": [
+    [
+      {
+        "rack": "juf",
+        "shelf": "hdd",
+        "comment": "dkbd"
+      }
+    ]
+  ],
+  "loginform": [
+    {
+      "username": "admin",
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "id": 1
+    },
+    {
+      "username": "nithin",
+      "email": "nithin@mail.com",
+      "password": "12345",
+      "id": 2
+    },
+    {
+      "username": "user",
+      "email": "user@gmail.com",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 4
+    },
+    {
+      "username": "vishnu",
+      "email": "vishnu@gmail.com",
+      "password": "123456",
+      "id": 5
+    }
+  ],
+  "returnForm": [],
+  "truckservce": [
+    {
+      "Product_name": "",
+      "quantity": "",
+      "date": "",
+      "location": "",
+      "id": 1
+    },
+    {
+      "Product_name": " ckd",
+      "quantity": 88,
+      "date": "2023-03-30",
+      "location": "ibdd",
+      "id": 2
+    },
+    {
+      "Product_name": " ckd",
+      "quantity": 88,
+      "date": "2023-03-30",
+      "location": "ibdd",
+      "id": 3
+    }
+  ],
+  "manual-entry": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    },
+    {
+      "id": 10
+    },
+    {
+      "sno": 7,
+      "Rack": 83,
+      "Shelf": 23,
+      "active": true,
+      "id": 11
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": false,
+      "id": 12
+    }
+  ],
+  "locationDB": [
+    {
+      "sno": 1,
+      "Rack": 53,
+      "Shelf": 240,
+      "active": true
+    },
+    {
+      "sno": 2,
+      "Rack": 33,
+      "Shelf": 202,
+      "active": false
+    },
+    {
+      "sno": 3,
+      "Rack": 63,
+      "Shelf": 204,
+      "active": true
+    },
+    {
+      "sno": 4,
+      "Rack": 50,
+      "Shelf": 820,
+      "active": true
+    },
+    {
+      "sno": 5,
+      "Rack": 5,
+      "Shelf": 50,
+      "active": false
+    },
+    {
+      "sno": 6,
+      "Rack": 53,
+      "Shelf": 25,
+      "active": true
+    },
+    {
+      "sno": 7,
+      "Rack": 83,
+      "Shelf": 23,
+      "active": false
+    },
+    {
+      "sno": 8,
+      "Rack": 99,
+      "Shelf": 20,
+      "active": true
+    }
+  ]
+}
